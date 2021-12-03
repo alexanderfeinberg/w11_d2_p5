@@ -1,15 +1,15 @@
 # Practice: Sequelize Seeders
 
-In this short practice, you will generating, running, and undoing seeder files 
-with **Sequelize**
+In this short practice, you will be generating, running, and undoing seeder 
+files with **Sequelize**.
 
 ## Getting started
 
 Download starter. `cd` into __server__ folder, and install dependencies using
 `npm install`.
 
-The Express endpoints for this practice will not yield results from a database but
-are included in order to demonstrate how to initialize Sequelize with an 
+The Express endpoints for this practice will not yield results from a database 
+but are included in order to demonstrate how to initialize Sequelize with an 
 existing server. This can be seen from the plaintext responses given by these 
 endpoints.
 
