@@ -5,8 +5,15 @@ files with **Sequelize**.
 
 ## Getting started
 
-Download starter. `cd` into __server__ folder, and install dependencies using
-`npm install`.
+Download starter. 
+
+Execute the __setup-commands.sh__ script from the root directory of this
+practice. View the contents of the script to see the commands that are executed,
+and view the results in the terminal to confirm that setup was successful.
+
+```shell
+sh setup-commands.sh
+```
 
 The Express endpoints for this practice will not yield results from a database 
 but are included in order to demonstrate how to initialize Sequelize with an 
